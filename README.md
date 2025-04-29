@@ -34,7 +34,7 @@ This project focuses on sales forecasting, predictive analytics, and dashboard v
 
 ## 📂 Folder Structure
 
-Sales_Forecasting_Qlik_Project/
+MSIL_Sales_Forecasting_QlikProject/
 │
 ├── Qlik_Files/                         # All Qlik Sense project files (.qvf)
 │   ├── Stage1_MarutiSales.qvf          # Stage 1: Load and save data into QVDs
